@@ -1,0 +1,7 @@
+C:\Users\Md Sadman Chowdhury\source\repos\BookmarkOrganizer\bin\Debug\BookmarkOrganizer.exe.config
+C:\Users\Md Sadman Chowdhury\source\repos\BookmarkOrganizer\bin\Debug\BookmarkOrganizer.exe
+C:\Users\Md Sadman Chowdhury\source\repos\BookmarkOrganizer\bin\Debug\BookmarkOrganizer.pdb
+C:\Users\Md Sadman Chowdhury\source\repos\BookmarkOrganizer\obj\Debug\BookmarkOrganizer.csprojAssemblyReference.cache
+C:\Users\Md Sadman Chowdhury\source\repos\BookmarkOrganizer\obj\Debug\BookmarkOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\Md Sadman Chowdhury\source\repos\BookmarkOrganizer\obj\Debug\BookmarkOrganizer.exe
+C:\Users\Md Sadman Chowdhury\source\repos\BookmarkOrganizer\obj\Debug\BookmarkOrganizer.pdb
